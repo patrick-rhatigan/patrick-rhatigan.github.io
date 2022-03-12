@@ -1,0 +1,33 @@
+a:link {
+  color: grey;
+  text-decoration: none;
+}
+a:visited {
+  color: grey;
+  text-decoration: none;
+}
+a:hover {
+  color: black;
+  text-decoration: underline;
+}
+a:active {
+  color: black;
+  text-decoration: none;
+}
+
+h1 {
+  font-family: palatino, times, serif;
+  color: red;
+}
+
+h2 {
+  font-family: palatino, times, serif;
+}
+
+h3 {
+  font-family: palatino, times, serif;
+}
+
+p {
+  font-family: palatino, times, serif;
+}
