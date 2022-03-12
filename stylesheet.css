@@ -3,7 +3,6 @@
 body {
   margin: 0;
   box-sizing: border-box;
-  background-color: #E6D4B8
 }
 
 .header {
@@ -11,4 +10,5 @@ body {
   justify-content: space-between;
   align-items: center;
   font-family: 'Garamond', 'Cambria', serif;
+  background-color: #E6D4B8
 }
