@@ -23,9 +23,10 @@ body {
   background-color: #E6D4B8
 }
 .about-me img {
-  width: 50px;
+  width: 500px;
+  max-width: 100%;
   height: auto;
-  border-radius: 10px;
+  border-radius: 50%;
 }
 
 .about-me-text h2 {
