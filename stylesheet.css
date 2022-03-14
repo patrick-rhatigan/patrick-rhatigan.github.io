@@ -14,7 +14,7 @@ body {
   justify-content: space-between;
   align-items: center;
   color: #1F3659;
-  font-size: 40px;
+  font-size: 30px;
 }
 
 .about-me {
@@ -45,7 +45,7 @@ body {
 }
 
 .work {
-  display: flex;
+  line break:auto;
   justify-content: center;
   align-items: center;
   padding: 40px 80px;
