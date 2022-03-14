@@ -31,6 +31,7 @@ body {
   max-width: 100%;
   height: auto;
   border-radius: 50%;
+  border: 2px solid #1F3659;
 }
 
 .about-me-text h1 {
@@ -42,10 +43,10 @@ body {
 .about-me-text p {
   font-size: 30px;
   margin: 10px 0;
+  line break:auto;
 }
 
 .work {
-  line break:auto;
   justify-content: center;
   align-items: center;
   padding: 40px 80px;
