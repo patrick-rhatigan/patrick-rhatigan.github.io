@@ -9,7 +9,7 @@ body {
 }
 
 .header {
-  /*display: flex;*/
+  display: flex;
   justify-content: space-between;
   align-items: center;
   font-family: 'Garamond', 'Cambria', serif;
@@ -20,7 +20,7 @@ body {
   justify-content: center;
   align-items: center;
   padding: 40px 80px;
-  border-top: 2px solid #eeeeee;
+  border-top: 2px solid #A6BDE0;
   font-family: 'Garamond', 'Cambria', serif;
 }
 .about-me img {
