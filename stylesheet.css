@@ -22,24 +22,23 @@ body {
   align-items: center;
   padding: 40px 80px;
   border-top: 2px solid #1F3659;
+  color: #1F3659
 }
 
 .about-me img {
-  height: 500px;
-  max-height: 90%;
-  width: auto;
+  width: 500px;
+  max-width: 100%;
+  height: auto;
   border-radius: 50%;
 }
 
 .about-me-text h2 {
   font-size: 30px;
-  color: #1F3659;
   text-transform: capitalize;
   margin: 0;
 }
 
 .about-me-text p {
   font-size: 15px;
-  color: #1F3659;
   margin: 10px 0;
 }
