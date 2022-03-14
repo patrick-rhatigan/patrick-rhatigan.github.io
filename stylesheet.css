@@ -5,14 +5,15 @@
 body {
   margin: 0;
   box-sizing: border-box;
-  background-color: #E6D4B8
+  background-color: #E6D4B8;
+  font-family: 'Garamond', 'Cambria', serif;
 }
 
 .header {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  font-family: 'Garamond', 'Cambria', serif;
+  color: #1F3659
 }
 
 .about-me {
@@ -20,25 +21,25 @@ body {
   justify-content: center;
   align-items: center;
   padding: 40px 80px;
-  border-top: 2px solid #000000;
-  font-family: 'Garamond', 'Cambria', serif;
+  border-top: 2px solid #1F3659;
 }
+
 .about-me img {
-  width: 100px;
-  max-width: 100%;
+  width: 500px;
+  max-width: 50%;
   height: auto;
   border-radius: 50%;
 }
 
 .about-me-text h2 {
   font-size: 30px;
-  color: #1F3659;
+  color: inherit;
   text-transform: uppercase;
   margin: 0;
 }
 
 .about-me-text p {
   font-size: 15px;
-  color: #1F3659;
+  color: inherit;
   margin: 10px 0;
 }
