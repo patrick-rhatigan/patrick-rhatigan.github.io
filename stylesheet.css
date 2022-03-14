@@ -14,7 +14,7 @@ body {
   justify-content: space-between;
   align-items: center;
   color: #1F3659;
-  font-size: 50px;
+  font-size: 75px;
 }
 
 .about-me {
@@ -33,13 +33,13 @@ body {
   border-radius: 50%;
 }
 
-.about-me-text h2 {
-  font-size: 50px;
+.about-me-text h1 {
+  font-size: 75px;
   text-transform: capitalize;
   margin: 0;
 }
 
 .about-me-text p {
-  font-size: 20px;
+  font-size: 30px;
   margin: 10px 0;
 }
