@@ -24,7 +24,7 @@ body {
   font-family: 'Garamond', 'Cambria', serif;
 }
 .about-me img {
-  width: 500px;
+  width: 100px;
   max-width: 100%;
   height: auto;
   border-radius: 50%;
@@ -32,13 +32,13 @@ body {
 
 .about-me-text h2 {
   font-size: 30px;
-  color: #333333;
+  color: #1F3659;
   text-transform: uppercase;
   margin: 0;
 }
 
 .about-me-text p {
   font-size: 15px;
-  color: #585858;
+  color: #1F3659;
   margin: 10px 0;
 }
