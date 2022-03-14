@@ -25,21 +25,21 @@ body {
 }
 
 .about-me img {
-  width: 500px;
-  max-width: 100%;
-  height: auto;
+  height: 500px;
+  max-height: 90%;
+  width: auto;
   border-radius: 50%;
 }
 
 .about-me-text h2 {
   font-size: 30px;
-  color: inherit;
+  color: #1F3659;
   text-transform: capitalize;
   margin: 0;
 }
 
 .about-me-text p {
   font-size: 15px;
-  color: inherit;
+  color: #1F3659;
   margin: 10px 0;
 }
