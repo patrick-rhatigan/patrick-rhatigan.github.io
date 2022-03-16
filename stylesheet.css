@@ -43,7 +43,6 @@ body {
 .about-me-text p {
   font-size: 30px;
   margin: 10px 0;
-  line break:auto;
 }
 
 .work {
@@ -52,4 +51,9 @@ body {
   padding: 40px 80px;
   border-top: 2px solid #1F3659;
   color: #1F3659;
+}
+
+.work p{
+  font-size: 30px;
+  color: inherit;
 }
