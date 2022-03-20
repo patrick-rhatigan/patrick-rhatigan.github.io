@@ -3,10 +3,19 @@
 
 
 body {
-  margin: 1em;
   box-sizing: border-box;
   background-color: #E6D4B8;
   font-family: 'Garamond', 'Cambria', serif;
+}
+
+h1 {
+    font-size: 3.75em;
+    color: #1F3659;
+}
+
+ p{
+  font-size: 2em;
+  color: #1F3659;
 }
 
 .header {
@@ -23,11 +32,10 @@ body {
   align-items: center;
   padding: 2.5em 5em;
   border-top: 0.125em solid #1F3659;
-  color: #1F3659
 }
 
 .about-me img {
-  width: 31.25;
+  width: 20;
   max-width: 100%;
   height: auto;
   border-radius: 50%;
@@ -35,13 +43,12 @@ body {
 }
 
 .about-me-text h1 {
-  font-size: 3.75em;
+  /*font-size: 3.75em;*/
   text-transform: capitalize;
   margin: 0;
 }
 
 .about-me-text p {
-  font-size: 2em;
   margin: 0.625em 0;
 }
 
@@ -50,10 +57,4 @@ body {
   align-items: center;
   padding: 2.5em 5em;
   border-top: 0.125em solid #1F3659;
-  color: #1F3659;
-}
-
-.work p{
-  font-size: 2em;
-  color: inherit;
 }
