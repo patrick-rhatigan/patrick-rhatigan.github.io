@@ -28,18 +28,18 @@ main {
 }
 
 .header {
-  display: flex;
+  /*display: flex;
   justify-content: space-between;
   align-items: center;
-  color: #1F3659;
+  color: #1F3659;*/
   font-size: 1em;
 }
 
 .about-me {
-  display: flex;
+  /*display: flex;
   justify-content: center;
   align-items: center;
-  padding: 2.5em 5em;
+  padding: 2.5em 5em;/*/
   border-top: 0.125em solid #1F3659;
 }
 
@@ -61,8 +61,8 @@ main {
 }
 
 .work {
-  justify-content: center;
+  /*justify-content: center;
   align-items: center;
-  padding: 2.5em 5em;
+  padding: 2.5em 5em;*/
   border-top: 0.125em solid #1F3659;
 }
