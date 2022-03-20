@@ -14,46 +14,46 @@ body {
   justify-content: space-between;
   align-items: center;
   color: #1F3659;
-  font-size: 30px;
+  font-size: 2em;
 }
 
 .about-me {
   display: flex;
   justify-content: center;
   align-items: center;
-  padding: 40px 80px;
-  border-top: 2px solid #1F3659;
+  padding: 2.5em 5em;
+  border-top: 0.125em solid #1F3659;
   color: #1F3659
 }
 
 .about-me img {
-  width: 500px;
+  width: 31.25;
   max-width: 100%;
   height: auto;
   border-radius: 50%;
-  border: 2px solid #1F3659;
+  border: 0.125em solid #1F3659;
 }
 
 .about-me-text h1 {
-  font-size: 60px;
+  font-size: 3.75em;
   text-transform: capitalize;
   margin: 0;
 }
 
 .about-me-text p {
-  font-size: 30px;
-  margin: 10px 0;
+  font-size: 2em;
+  margin: 0.625em 0;
 }
 
 .work {
   justify-content: center;
   align-items: center;
-  padding: 40px 80px;
-  border-top: 2px solid #1F3659;
+  padding: 2.5em 5em;
+  border-top: 0.125em solid #1F3659;
   color: #1F3659;
 }
 
 .work p{
-  font-size: 30px;
+  font-size: 2em;
   color: inherit;
 }
