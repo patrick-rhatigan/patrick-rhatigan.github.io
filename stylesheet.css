@@ -16,6 +16,15 @@ h1 {
  p{
   font-size: 1.5em;
   color: #1F3659;
+  line-height: 150%
+}
+
+main {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  padding: 2.5em 5em;
 }
 
 .header {
@@ -23,7 +32,7 @@ h1 {
   justify-content: space-between;
   align-items: center;
   color: #1F3659;
-  font-size: 1.5em;
+  font-size: 1em;
 }
 
 .about-me {
@@ -43,7 +52,6 @@ h1 {
 }
 
 .about-me-text h1 {
-  /*font-size: 3.75em;*/
   text-transform: capitalize;
   margin: 0;
 }
