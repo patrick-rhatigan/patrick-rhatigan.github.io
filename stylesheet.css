@@ -37,10 +37,10 @@ main {
 }
 
 .about-me {
-  /*display: flex;
+  display: flex;
   justify-content: center;
   align-items: center;
-  padding: 2.5em 5em;/*/
+  padding: 2.5em 5em;
   border-top: 0.125em solid #1F3659;
 }
 
